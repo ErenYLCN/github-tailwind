@@ -1,5 +1,7 @@
 # github-tailwind
 
+Somewhat responsive version of a github repository page
+
 ## Project setup
 ```
 npm install
